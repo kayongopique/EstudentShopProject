@@ -1,0 +1,2 @@
+export { HomeTabBar } from './home';
+
